@@ -301,12 +301,6 @@ $ cd /data/wwwroot/freenom/ && php run
 如果`Freenom`改变算法导致此项目失效，请提 [issues](https://github.com/luolongfei/freenom/issues) 告知，我会及时修复，本项目长期维护。
 欢迎`star`~
 
-### 🍺  信仰
-
-![南京市民李先生](https://s2.ax1x.com/2020/02/04/1Bm3Ps.jpg "南京市民李先生")
-> 
-> 认真是我们参与这个社会的方式，认真是我们改变这个社会的方式。  ——李志
-
 ### ❤  捐赠 Donate
 如果你觉得本项目真的有帮助到你并且想回馈作者，感谢你的捐赠。
 #### PayPal: [https://www.paypal.me/mybsdc](https://www.paypal.me/mybsdc)
